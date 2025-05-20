@@ -1,3 +1,6 @@
 開始状態
 
 ファイルを一度更新
+
+.git add
+.git commit
